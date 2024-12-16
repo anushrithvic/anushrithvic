@@ -20,7 +20,7 @@ I am actively seeking an internship opportunity to:
 	•	Contribute to meaningful projects that drive innovation
 
 📫 Let’s Connect
-	•	LinkedIn  - linkedin.com/in/anush-rithvic-m-87a154307/
+	•	LinkedIn  - https://www.linkedin.com/in/anush-rithvic-m-87a154307/
 	•	Email     - anushrithvic@gmail.com
 <!---
 anushrithvic/anushrithvic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
