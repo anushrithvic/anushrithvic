@@ -1,28 +1,48 @@
-Hi there! 👋 I’m Anush Rithvic M
+<h1 align="center">Hi 👋, I'm Anush Rithvic M</h1>
+<h3 align="center">Software Engineer | Tech Enthusiast | Problem Solver</h3>
 
-🚀 About Me
+---
+🛠 Designing Solutions That Empower and Elevate.
 
-I am a second-year Computer Science undergraduate with a passion for solving real-world problems through innovative technology. With a strong foundation in programming and problem-solving, I strive to build efficient and impactful solutions.
+### 👨‍💻 About Me:
+- 🛠 Designing Solutions That Empower and Elevate.
+- 🎓 Student at **Amrita Vishwa Vidhyapeetham**
+- 🍎 MacOS fanboy!
+- 💡 Exploring **[AI | ML | Web Development, etc.]**
+- 💻 Currently working on **[Project/Skill you're improving]**
+- 🌱 Learning **[Technology you're learning, e.g., React, Docker, etc.]**
+- ⚡ Fun Fact: I enjoy **[basketball, hackathons,and Travelling]**
 
-💻 Skills
-	•	Programming Languages: Python, C, Java
-	•	Core Expertise:
-	•	Crafting efficient algorithms
-	•	Implementing robust data structures
-	•	Building scalable and innovative projects
-	•	Competitions: Successfully participated in hackathons and coding competitions, showcasing my adaptability and quick learning abilities.
+---
 
-🌟 Objectives
+### 🚀 Programming Languages & Frameworks:
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 
-I am actively seeking an internship opportunity to:
-	•	Enhance my technical skills
-	•	Gain hands-on experience in software engineering
-	•	Contribute to meaningful projects that drive innovation
+</p>
 
-📫 Let’s Connect
-	•	LinkedIn  - https://www.linkedin.com/in/anush-rithvic-m-87a154307/
-	•	Email     - anushrithvic@gmail.com
-<!---
-anushrithvic/anushrithvic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠 Tools & Technologies:
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+
+</p>
+
+---
+
+### 🎯 Competitive Programming Profiles:
+- [LeetCode](https://leetcode.com/u/anush_rithvic/) | [HackerRank](#) | [CodeChef](#) | 
+
+---
+
+### 📫 Reach Out to Me:
+<p align="left">
+<a href="mailto:anushrithvic@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
+<a href="https://linkedin.com/in/anush-rithvic-m-87a154307/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+
+</p>
