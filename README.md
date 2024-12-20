@@ -11,7 +11,7 @@
 - 🌱 Learning **Machine Learning**
 - <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="20" height="20"/> Google fanboy!
 - 🍎 MacOS fanboy!
-- ⚡ Fun Fact: I enjoy **basketball, hackathons,and Travelling**
+- ⚡ Fun Fact: I enjoy **basketball, hackathons ,and Travelling**
 
 ---
 
