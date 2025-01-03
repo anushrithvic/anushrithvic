@@ -8,50 +8,45 @@
 - 🎓 Student at **Amrita Vishwa Vidhyapeetham**
 - 💡 Exploring ** AI | ML | App Development, etc.**
 - 💻 Currently working on **App Development**
-- 🌱 Learning **Machine Learning**
-- <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="20" height="20"/> Google fanboy!
-- 🍎 MacOS fanboy!
+- 🌱 Diving deep into **Machine Learning** to innovate intelligent solutions.
+- <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="20" height="20"/>`Google` fanboy!
+- 🍎`MacOS` fanboy!
 - ⚡ Fun Fact: I enjoy **basketball, hackathons ,and Travelling**
 
 ---
+### 🚀 Programming Languages, Libraries & Frameworks:
 
-### 🚀 Programming Languages & Frameworks:
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQL"/>
-</p>
+![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,mysql,flutter,flask,sqlite,haskell,django,tensorflow,pytorch,tkinter,pygame,numpy)
+
 
 ---
+### 🛠 Tools & Technologies:
 
-### 🛠 Tools, Libraries & Technologies:
-<p align="left">
 <!-- Frameworks & Libraries -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" title="PyTorch"/>
-<img src="https://img.shields.io/badge/Tkinter-0078D7?style=flat&logo=python&logoColor=white" width="40" height="40" title="Tkinter"/>
-<img src="https://img.shields.io/badge/PyGame-000000?style=flat&logo=pygame&logoColor=white" width="40" height="40" title="PyGame"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" title="PyCharm"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" title="Windows"/>
-<img src="https://img.icons8.com/ios-filled/50/ffffff/mac-os.png" width="40" height="40" title="macOS"/>
-<img src="https://img.shields.io/badge/Code%20Blocks-000000?style=flat&logo=cplusplus&logoColor=white" width="40" height="40" title="Code Blocks"/>
-</p>
+![My Tools](https://skillicons.dev/icons?i=git,github,linux,arduino,autocad,blender,visualstudio,vscode,pycharm,figma,eclipse,raspberrypi,anaconda,windows,apple,gmail,linkedin,stackoverflow,discord)
+
 
 ---
+## GitHub Contributions Graph
 
+[![Anush's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anushrithvic&theme=github-dark)](https://github.com/anushrithvic)
+
+---
+## GitHub Stats
+![Anush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushrithvic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats-two-blush.vercel.app?user=anushrithvic&theme=dark)](https://git.io/streak-stats)
+
+---
 ### 🎯 Competitive Programming Profiles:
-- [LeetCode](https://leetcode.com/u/anush_rithvic/) | [HackerRank](#) | [CodeChef](#) | 
+<a href="https://www.hackerrank.com/anushrithvic"><img height="48" width="48" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png"></a>
+<a href="https://www.codechef.com/users/anushrithvic" style="border-radius: 30%; height: 50px; width: 50px;"><img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" style="border-radius: 50%; height: 50px; width: 50px;"></a>
+<a href="https://codeforces.com/profile/anushrithvic"><img src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" style="height: 60px; width: 55px;"></a>
 
 ---
-
 ### 📫 Reach Out to Me:
-<p align="left">
-<a href="mailto:anushrithvic@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
-<a href="https://linkedin.com/in/anush-rithvic-m-87a154307/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
 
-</p>
+<a href="mailto:anushrithvic@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48"/></a>
+<a href="https://linkedin.com/in/anush-rithvic-m-87a154307/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48"/></a>
+<a>   </a>
+<a href="https://www.instagram.com/ashrock_m13/">![Instagram](https://skillicons.dev/icons?i=instagram)</a>
