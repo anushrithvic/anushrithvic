@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me:
 - 🛠 Designing Solutions That Empower and Elevate.
 - 🎓 Student at **Amrita Vishwa Vidhyapeetham**
-- 💡 Exploring ** AI | ML | App Development, etc.**
+- 💡 Exploring **AI | ML | App Development, etc.**
 - 💻 Currently working on **App Development**
 - 🌱 Diving deep into **Machine Learning** to innovate intelligent solutions.
 - <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="20" height="20"/>`Google` fanboy!
