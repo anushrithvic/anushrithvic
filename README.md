@@ -42,6 +42,7 @@
 <a href="https://www.hackerrank.com/anushrithvic"><img height="48" width="48" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png"></a>
 <a href="https://www.codechef.com/users/anushrithvic" style="border-radius: 30%; height: 50px; width: 50px;"><img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" style="border-radius: 50%; height: 50px; width: 50px;"></a>
 <a href="https://codeforces.com/profile/anushrithvic"><img src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" style="height: 60px; width: 55px;"></a>
+<a href="https://leetcode.com/anush_rithvic"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48"></a>
 
 ---
 ### 📫 Reach Out to Me:
