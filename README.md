@@ -49,4 +49,4 @@
 <a href="mailto:anushrithvic@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48"/></a>
 <a href="https://linkedin.com/in/anush-rithvic-m-87a154307/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48"/></a>
 <a>   </a>
-<a href="https://www.instagram.com/ashrock_m13/">![Instagram](https://skillicons.dev/icons?i=instagram)</a>
+<a href="https://www.instagram.com/anush._.rithvic/">![Instagram](https://skillicons.dev/icons?i=instagram)</a>
