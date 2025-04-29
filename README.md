@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anush Rithvic M</h1>
-<h4 align="center"> 👀 <a href="https://ashrockzzz2003.github.io/portfolio/">My Portfolio</a>
+<h4 align="center"> 👀 <a href="https://anushrithvic.github.io/portfolio/">My Portfolio</a>
 <h3 align="center">Aspiring Software Engineer | Tech Enthusiast | Problem Solver</h3>
 
 ---
